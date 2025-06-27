@@ -13,10 +13,10 @@ To make the experience more interactive, the planets rotate on their own axis, s
 ![RA NEPTUNE](https://raw.githubusercontent.com/Alejandraglezjaime/sistemaSolar/fb0db09bb90cbc8efee50c62f80958c01e0adda4/Img/Neptune.jpg)
 
 
-Developed by: Alejandra González
+**Developed by: Alejandra González**
 
-Tools used: Unity, Vuforia Engine, C#.
+**Tools used: Unity, Vuforia Engine, C#.**
 
-Language: English
+**Language: English**
 
-Platform: Android 
+**Platform: Android**
