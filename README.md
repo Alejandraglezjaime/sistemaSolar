@@ -1,7 +1,23 @@
-## Aplicación móvil del sistema solar
+## Solar System Mobile Application
 
-Esta aplicación móvil fue desarrollada como parte de un proyecto escolar con el objetivo de representar el sistema solar mediante el uso de *Realidad Aumentada*. Utiliza un multitarget (imagen o tarjeta) que, al ser enfocado por la cámara del dispositivo móvil, despliega un modelo tridimensional del planeta Tierra como imagen principal.
+This mobile application was developed as part of a school project with the goal of representing the solar system using Augmented Reality. It uses a multitarget (image or card) that, when focused on by the mobile device’s camera, displays a three-dimensional model of planet Earth as the main image.
 
-La aplicación incluye botones que permiten al usuario cambiar entre diferentes modelos 3D, los cuales se presentan de forma secuencial tanto hacia adelante como hacia atrás, de forma infinita. Además, cada cambio de modelo activa un audio correspondiente, brindando una experiencia interactiva y educativa.
+The application includes buttons that allow the user to switch between different 3D models, which are presented sequentially both forwards and backwards in an infinite loop. Additionally, each model change activates a corresponding audio, providing an interactive and educational experience.
 
-Asimismo, se muestra en pantalla el nombre del modelo 3D junto con información relevante acerca del mismo, enriqueciendo el aprendizaje del usuario.
+The screen also shows the name of the 3D model along with relevant information about it, enriching the user’s learning.
+
+To make the experience more interactive, the planets rotate on their own axis, simulating their real rotation according to their speed and trajectory. Furthermore, they are displayed to scale, allowing users to appreciate the size differences between them and better understand the vastness of the solar system.
+
+### Multitarget image
+
+<img src="https://github.com/Alejandraglezjaime/sistemaSolar/blob/master/Assets/Solar%20System/ImageTargets/SolarSystem.jpg" alt="Texto alternativo descriptivo" width="20" height="20" />
+
+### App demo
+
+<img src="https://raw.githubusercontent.com/Alejandraglezjaime/sistemaSolar/fb0db09bb90cbc8efee50c62f80958c01e0adda4/Img/Neptune.jpg" alt="Demo nepturne" width="20" height="20" />
+<img src="https://raw.githubusercontent.com/Alejandraglezjaime/sistemaSolar/fb0db09bb90cbc8efee50c62f80958c01e0adda4/Img/Sun.jpg" alt="Demo Sun" width="20" height="20" />
+
+Developed by: Alejandra González
+Tools used: Unity, Vuforia Engine, C#.
+Language: English
+Platform: Android 
