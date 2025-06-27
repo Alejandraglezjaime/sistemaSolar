@@ -10,17 +10,18 @@ public class PlanetInfoManager : MonoBehaviour
         "Sun", "Mercury", "Venus", "Earth", "Mars", "Jupiter", "Saturn", "Uranus", "Neptune"
     };
 
-    private Dictionary<string, string> planetDescriptions = new Dictionary<string, string>()
+
+private Dictionary<string, string> planetDescriptions = new Dictionary<string, string>()
 {
-    { "Sun", "El Sol es una estrella gigante que se encuentra en el centro de nuestro sistema solar. Su energía hace posible la vida en la Tierra." },
-    { "Mercury", "Mercurio es el planeta más cercano al Sol. Es pequeño, rocoso y su superficie está llena de cráteres." },
-    { "Venus", "Venus es similar en tamaño a la Tierra, pero su atmósfera densa y caliente lo convierte en el planeta más cálido del sistema solar." },
-    { "Earth", "La Tierra es nuestro hogar. Es el único planeta conocido con vida y posee agua en estado líquido." },
-    { "Mars", "Marte es conocido como el planeta rojo por el color de su superficie. Podría haber albergado vida en el pasado." },
-    { "Jupiter", "Júpiter es el planeta más grande del sistema solar. Tiene una gran mancha roja que es una tormenta gigante." },
-    { "Saturn", "Saturno es famoso por sus espectaculares anillos, compuestos por hielo y roca. Es el segundo planeta más grande." },
-    { "Uranus", "Urano gira de lado, como si rodara en su órbita. Su color azul verdoso se debe al gas metano en su atmósfera." },
-    { "Neptune", "Neptuno es un planeta frío y muy ventoso. Es el más lejano del Sol y tiene un hermoso color azul intenso." }
+    { "Sun", "The Sun is a giant star located at the center of our solar system. Its energy makes life on Earth possible." },
+{ "Mercury", "Mercury is the closest planet to the Sun. It is small, rocky, and its surface is covered with craters." },
+{ "Venus", "Venus is similar in size to Earth, but its dense and hot atmosphere makes it the hottest planet in the solar system." },
+{ "Earth", "Earth is our home. It is the only known planet with life and has liquid water on its surface." },
+{ "Mars", "Mars is known as the red planet due to the color of its surface. It may have hosted life in the past." },
+{ "Jupiter", "Jupiter is the largest planet in the solar system. It has a Great Red Spot, which is a giant storm." },
+{ "Saturn", "Saturn is famous for its spectacular rings, made of ice and rock. It is the second largest planet." },
+{ "Uranus", "Uranus rotates on its side, as if it were rolling along its orbit. Its bluish-green color is due to methane gas in its atmosphere." },
+{ "Neptune", "Neptune is a cold and very windy planet. It is the farthest from the Sun and has a beautiful deep blue color." }
     };
 
 
