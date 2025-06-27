@@ -10,14 +10,19 @@ To make the experience more interactive, the planets rotate on their own axis, s
 
 ### Multitarget image
 
-<img src="https://github.com/Alejandraglezjaime/sistemaSolar/blob/master/Assets/Solar%20System/ImageTargets/SolarSystem.jpg" alt="Texto alternativo descriptivo" width="20" height="20" />
+<img src="https://github.com/Alejandraglezjaime/sistemaSolar/blob/master/Assets/Solar%20System/ImageTargets/SolarSystem.jpg" alt="Texto alternativo descriptivo" width="100" height="100" />
 
 ### App demo
 
-<img src="https://raw.githubusercontent.com/Alejandraglezjaime/sistemaSolar/fb0db09bb90cbc8efee50c62f80958c01e0adda4/Img/Neptune.jpg" alt="Demo nepturne" width="20" height="20" />
-<img src="https://raw.githubusercontent.com/Alejandraglezjaime/sistemaSolar/fb0db09bb90cbc8efee50c62f80958c01e0adda4/Img/Sun.jpg" alt="Demo Sun" width="20" height="20" />
+<img src="https://raw.githubusercontent.com/Alejandraglezjaime/sistemaSolar/fb0db09bb90cbc8efee50c62f80958c01e0adda4/Img/Neptune.jpg" alt="Demo nepturne" width="200" height="200" />
+<img src="https://raw.githubusercontent.com/Alejandraglezjaime/sistemaSolar/fb0db09bb90cbc8efee50c62f80958c01e0adda4/Img/Sun.jpg" alt="Demo Sun" width="200" height="200" />
+
+
 
 Developed by: Alejandra González
+
 Tools used: Unity, Vuforia Engine, C#.
+
 Language: English
+
 Platform: Android 
